@@ -25,7 +25,6 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [4Thdimension](%23/4thdimension.4dd)
 * [8Th](%23/8th)
 * [~English](%23/~English.ext)
-* [~Indonesia](%23/~Indonesia.ext)
 * [Μλ](%23/%CE%BC%CE%BB)
 * [قلب](%23/%D9%82%D9%84%D8%A8)
 * [なでしこ](%23/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93.nako)
